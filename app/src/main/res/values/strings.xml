@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMS Test</string>
+    <string name="instructions">Send SMS like this : 007, Royex</string>
+</resources>
